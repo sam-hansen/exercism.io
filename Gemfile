@@ -52,7 +52,7 @@ end
 
 group :development do
   gem 'rerun', require: false
-  gem 'rubocop', '0.48.1', require: false
+  gem 'rubocop', '0.49.0', require: false
 end
 
 group :test do
