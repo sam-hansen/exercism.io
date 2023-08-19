@@ -13,7 +13,7 @@ gem 'loofah'
 gem 'petroglyph'
 gem 'pg'
 gem 'pry', require: false
-gem 'puma', '~> 4.3.12'
+gem 'puma', '~> 5.6.7'
 gem 'rack-flash3', require: 'rack-flash'
 gem 'rake', '~> 12.3.3'
 gem 'redcarpet', '~> 3.5'
